@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Rank = ({name, entries}) => {
     return (
@@ -10,7 +10,7 @@ const Rank = ({name, entries}) => {
                 {entries}
             </div>
         </div>
-    )
-}
+    );
+};
 
 export default Rank;
